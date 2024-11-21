@@ -1,0 +1,4 @@
+P;Elettronica;Galaxy S5;Lo smartphone di punta della Sansung.;699.00
+U;Anna;Neri;a.neri@yahoo.com;Via Gialli 87, 80010, Napoli
+U;Francesco;Azzurro;azzurri@msn.com;Via Grigi 122;50121;Firenze;abc;def123
+P;Videogiochi;Super Mario Bros;Aiuta Mario e Luigi a superare tutti i livelli.;60.00
